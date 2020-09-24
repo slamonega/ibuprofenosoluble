@@ -1,6 +1,4 @@
 
-Farmacias ofreciendo Libreprofeno en Argentina
-
 1.Carlina Tommasi: San Antonio de Areco bs as.
 2. Leticia Robles: Concordia Entre Ríos
 3. Ingrid Zubiri: La Paz Entre Ríos.
