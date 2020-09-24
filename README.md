@@ -2,14 +2,14 @@
 
 # Listado de farmacias que ofrecen gratuitamente el ibuprofeno nebulizable
 
- **1.Carlina Tommasi: San Antonio de Areco bs as.**  
+**1.Carlina Tommasi: San Antonio de Areco bs as.**  
 **2. Leticia Robles: Concordia Entre Ríos**  
 **3. Ingrid Zubiri: La Paz Entre Ríos.**  
 **4. Gustavo Pousset: Castelar Zona Oeste**  
 **5. Fabián Troina: San Miguel del Monte. Prov de Bs As. Apenas por ensayar hoy.**  
-**6. Laura Laborde: Vicuña Mackenna Cba. (Hoy llegan las cosas para empezar recién)**  
+**6. Laura Laborde: Vicuña Mackenna Cba.**  
 **7. Alejandra Berlari: Tandil, Buenos Aires**  
-**8. Ana Krieger: Tandil, Buenos Aires (mañana empezamos a hacerlo con Ale Berlari).**  
+**8. Ana Krieger: Tandil, Buenos Aires.**  
 **9. Farmacia Vignolo indiana: Santa Fe Capital**  
 **10. María Gabriela Jovanovich, Cañuelas, Bs As**  
 **11. Farmacia Rasetto - San Nicolás bs as**  
